@@ -8,7 +8,7 @@ h1{
 }
 h2{
 	position:relative;
-	top:23px;
+	top:24px;
 	text-align:right;
 	width:90%;
 	margin-right: auto;
@@ -16,10 +16,12 @@ h2{
 	color:white;
 	font-size:125%;
 	margin-bottom:0px;
-
 }
 h2 span{
 	background-color: #234570;
+	border:1px solid black;
+	padding-left:10px;
+	padding-right:10px;
 }
 p{
 	border: 1px solid black;
